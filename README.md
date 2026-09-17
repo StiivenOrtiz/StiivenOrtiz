@@ -142,10 +142,6 @@ What I'm studying at the moment:
 
 <img src="https://raw.githubusercontent.com/StiivenOrtiz/StiivenOrtiz/output/snake.svg" alt="snake animation" width="100%" />
 
-<br/>
-
-**Thanks for stopping by. If you've got a hard problem, I don't much care which layer it lives in — let's talk.**
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:2EA043,100:0D1117&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
