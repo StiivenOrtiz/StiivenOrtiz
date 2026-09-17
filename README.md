@@ -14,6 +14,26 @@
 
 ---
 
+## 🚀 Featured work
+
+### 🏦 ISO 8583 Transactional Simulator
+`Java 17` · `Spring Boot` · `Netty` · `React` · custom ISO 8583 parser
+
+The tool the team had been using was old and painful to change, so I read through its source, worked out why it didn't scale, and wrote a replacement from scratch. The new one lets you **add transactions without touching the core** and return custom responses per terminal.
+
+It took about nine months, mostly on my own time. It's fully adopted now and runs the team's POS testing at Redeban, and **I'm still adding to it**: new response behaviours for specific business cases, and more ways to connect when the infrastructure won't cooperate.
+
+### 🌿 EcoGuardians 2.0 &nbsp;·&nbsp; [**▶ Play it in your browser**](https://stiivenortiz.github.io/EcoGuardians-2.0/)
+`Unity` · `C#` · 3D open world
+
+An open-world game where you walk around Awaq ONGD's biological station in Aguadas, Caldas and learn what they're doing to protect the ecosystem there. It was my **degree thesis**, and it earned a **Laureate** distinction.
+
+I built the information displays, the task system and the minimap, and I was the team's **Scrum Master** for the ten months it took us.
+
+<a href="https://stiivenortiz.github.io/EcoGuardians-2.0/"><img src="https://img.shields.io/badge/▶_Play_EcoGuardians_2.0-2EA043?style=for-the-badge&logo=unity&logoColor=white" alt="play" /></a>
+
+---
+
 ## 🧑‍💻 About me
 
 ```kotlin
@@ -35,34 +55,6 @@ val stiven = SoftwareEngineer(
 - ☕ On the backend side: **Spring Boot**, **Spring Cloud**, **Netty**, reactive **WebFlux**, PostgreSQL and Docker.
 - 🎓 **Systems Engineer** from Pontificia Universidad Javeriana. My thesis earned a **Laureate** distinction.
 - 💬 Ask me about Kotlin, Android, ISO 8583, or why your device stopped answering on COM3.
-
----
-
-## 🚀 Featured work
-
-### 🏦 ISO 8583 Transactional Simulator
-`Java 17` · `Spring Boot` · `Netty` · `React` · custom ISO 8583 parser
-
-The tool the team had been using was old and painful to change, so I read through its source, worked out why it didn't scale, and wrote a replacement from scratch. The new one lets you **add transactions without touching the core** and return custom responses per terminal.
-
-It took about nine months, mostly on my own time. It's fully adopted now and runs the team's POS testing at Redeban, and **I'm still adding to it**: new response behaviours for specific business cases, and more ways to connect when the infrastructure won't cooperate.
-
-### 🌿 EcoGuardians 2.0 &nbsp;·&nbsp; [**▶ Play it in your browser**](https://stiivenortiz.github.io/EcoGuardians-2.0/)
-`Unity` · `C#` · 3D open world
-
-An open-world game where you walk around Awaq ONGD's biological station in Aguadas, Caldas and learn what they're doing to protect the ecosystem there. It was my **degree thesis**, and it earned a **Laureate** distinction.
-
-I built the information displays, the task system and the minimap, and I was the team's **Scrum Master** for the ten months it took us.
-
-<a href="https://stiivenortiz.github.io/EcoGuardians-2.0/"><img src="https://img.shields.io/badge/▶_Play_EcoGuardians_2.0-2EA043?style=for-the-badge&logo=unity&logoColor=white" alt="play" /></a>
-
----
-
-## 📜 Certifications
-
-![OCI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![OCI AI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025-AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![Oracle Data Platform](https://img.shields.io/badge/Oracle_Data_Platform_2025-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
 
@@ -126,6 +118,14 @@ I built the information displays, the task system and the minimap, and I was the
 
 ---
 
+## 📜 Certifications
+
+![OCI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![OCI AI Foundations](https://img.shields.io/badge/Oracle_Cloud_Infrastructure_2025-AI_Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle Data Platform](https://img.shields.io/badge/Oracle_Data_Platform_2025-Foundations_Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+---
+
 ## 🌱 Currently learning
 
 What I'm studying at the moment:
@@ -137,17 +137,9 @@ What I'm studying at the moment:
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=StiivenOrtiz&hide_border=true&background=00000000&stroke=808080&ring=2EA043&fire=3FB950&currStreakLabel=2EA043&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=808080" alt="streak" />
-
-</div>
-
----
-
-<div align="center">
 
 <img src="https://raw.githubusercontent.com/StiivenOrtiz/StiivenOrtiz/output/snake.svg" alt="snake animation" width="100%" />
 
