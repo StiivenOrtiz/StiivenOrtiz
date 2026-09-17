@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2EA043,100:3FB950&height=180&section=header&text=Stiven%20Ortiz%20Nore%C3%B1a&fontSize=44&fontColor=FFFFFF&fontAlignY=34&desc=Software%20Engineer%20%C2%B7%20Android%20%C2%B7%20Backend%20%C2%B7%20Payments&descAlignY=54&descSize=15" width="100%" alt="banner" />
 
 <a href="https://github.com/StiivenOrtiz">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Redeban;Built+an+ISO+8583+simulator+now+in+production;Kotlin+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+Android;Backend+or+mobile+%E2%80%94+whatever+the+problem+needs" alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=2EA043&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Redeban;Built+the+ISO+8583+simulator+Redeban+tests+POS+terminals+with;Kotlin+%C2%B7+Java+%C2%B7+Spring+Boot+%C2%B7+Android;Backend+or+mobile+%E2%80%94+whatever+the+problem+needs" alt="typing" />
 </a>
 
 <br/>
@@ -21,7 +21,7 @@
 
 The tool the team had been using was old and painful to change, so I read through its source, worked out why it didn't scale, and wrote a replacement from scratch. The new one lets you **add transactions without touching the core** and return custom responses per terminal.
 
-It took about nine months, mostly on my own time. It's fully adopted now and runs the team's POS testing at Redeban, and **I'm still adding to it**: new response behaviours for specific business cases, and more ways to connect when the infrastructure won't cooperate.
+It took about nine months, mostly on my own time. It's fully adopted now: **several areas at Redeban run their POS testing on it**, and merchants use it for their own integration testing. I'm **still adding to it** — new response behaviours for specific business cases, and more ways to connect when the infrastructure won't cooperate.
 
 ### 🌿 EcoGuardians 2.0 &nbsp;·&nbsp; [**▶ Play it in your browser**](https://stiivenortiz.github.io/EcoGuardians-2.0/)
 `Unity` · `C#` · 3D open world
