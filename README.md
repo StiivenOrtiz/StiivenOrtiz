@@ -54,7 +54,6 @@ val stiven = SoftwareEngineer(
 - 🤖 I work **spec-first with AI agents** (Claude Code, Antigravity). The prompt was never the hard part. What's hard is writing a spec tight enough that you can actually review what comes back — naming rules, testing gates, a definition of done the agent can't argue with. It's the same requirements work I do for POS features, just pointed somewhere else.
 - ☕ On the backend side: **Spring Boot**, **Spring Cloud**, **Netty**, reactive **WebFlux**, PostgreSQL and Docker.
 - 🎓 **Systems Engineer** from Pontificia Universidad Javeriana. My thesis earned a **Laureate** distinction.
-- 💬 Ask me about Kotlin, Android, ISO 8583, or why your device stopped answering on COM3.
 
 ---
 
