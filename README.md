@@ -145,7 +145,7 @@ What I'm studying at the moment:
 
 <br/>
 
-**Thanks for stopping by. If you're building something in payments, I'd like to hear about it.**
+**Thanks for stopping by. If you've got a hard problem, I don't much care which layer it lives in — let's talk.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:2EA043,100:0D1117&height=110&section=footer" width="100%" alt="footer" />
 
