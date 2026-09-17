@@ -26,14 +26,14 @@ val stiven = SoftwareEngineer(
 )
 ```
 
-- 🧭 **Software engineer first.** Mobile today, backend yesterday, whatever the problem needs tomorrow — I would rather be useful across the stack than boxed into one layer.
-- 📟 I work on the **Android software that runs on POS terminals** — the card reader you tap every day.
-- 🧪 I came into payments through **QA and POS terminal certification**: designing and running functional test suites per device model, bug reporting, incident analysis. Learning how software gets broken on purpose is the best training I have had for writing it.
-- 🔌 That taught me **device integration** from the inside — terminals, peripherals and hosts talking over **serial (RS-232)** and **TCP/IP**, and the **ISO 8583** and **EMV** message flows underneath.
-- 🔎 I **build my own tooling**: utilities that intercept and analyze POS communication so you can see exactly what the terminal and the host said to each other, plus Python automation for the repetitive parts.
-- 🤖 I work **spec-first with AI agents** (Claude Code, Antigravity). The hard part was never the prompt — it is writing a specification precise enough that the output is reviewable: explicit standards, naming rules, testing gates, a definition of done the agent cannot argue its way around. It is the same requirements work I do for POS features, pointed at a different implementer.
-- ☕ Beyond mobile: **Spring Boot**, **Spring Cloud** and **Netty** on the backend, reactive **WebFlux**, PostgreSQL and Docker.
-- 🎓 **Systems Engineer**, Pontificia Universidad Javeriana — graduated with a **Laureate Thesis** distinction.
+- 🧭 **Software engineer first.** I've done backend, right now I'm on mobile. I'd rather be useful wherever the problem is than get boxed into one layer.
+- 📟 I work on the **Android software running on POS terminals** — the card reader you tap when you buy coffee.
+- 🧪 I got into payments through **QA and terminal certification**: writing test suites for each device model, reporting bugs, digging through incidents. A year of breaking software on purpose taught me more about writing it than any course did.
+- 🔌 That's where I learned **device integration**. Terminals, peripherals and hosts talking over **serial (RS-232)** and **TCP/IP**, with **ISO 8583** and **EMV** underneath.
+- 🔎 I build my own tools for it too: small utilities that intercept POS traffic and show you exactly what the terminal and the host said to each other, plus Python scripts for the boring parts.
+- 🤖 I work **spec-first with AI agents** (Claude Code, Antigravity). The prompt was never the hard part. What's hard is writing a spec tight enough that you can actually review what comes back — naming rules, testing gates, a definition of done the agent can't argue with. It's the same requirements work I do for POS features, just pointed somewhere else.
+- ☕ On the backend side: **Spring Boot**, **Spring Cloud**, **Netty**, reactive **WebFlux**, PostgreSQL and Docker.
+- 🎓 **Systems Engineer** from Pontificia Universidad Javeriana. My thesis earned a **Laureate** distinction.
 - 💬 Ask me about Kotlin, Android, ISO 8583, or why your device stopped answering on COM3.
 
 ---
@@ -43,16 +43,16 @@ val stiven = SoftwareEngineer(
 ### 🏦 ISO 8583 Transactional Simulator
 `Java 17` · `Spring Boot` · `Netty` · `React` · custom ISO 8583 parser
 
-Built from scratch to replace a legacy tool that had become hard to maintain and scale. The new architecture lets the team **add transactions without touching the core code** and generate custom responses per terminal.
+The tool the team had been using was old and painful to change, so I read through its source, worked out why it didn't scale, and wrote a replacement from scratch. The new one lets you **add transactions without touching the core** and return custom responses per terminal.
 
-Roughly **nine months of autonomous development**, most of it on my own time. It is fully adopted today and runs the POS testing at Redeban — and I am **still shipping into it**: new response behaviours for specific business test cases, and additional ways to connect for environments where the infrastructure is constrained.
+It took about nine months, mostly on my own time. It's fully adopted now and runs the team's POS testing at Redeban, and **I'm still adding to it**: new response behaviours for specific business cases, and more ways to connect when the infrastructure won't cooperate.
 
 ### 🌿 EcoGuardians 2.0 &nbsp;·&nbsp; [**▶ Play it in your browser**](https://stiivenortiz.github.io/EcoGuardians-2.0/)
 `Unity` · `C#` · 3D open world
 
-An educational open-world game that tours the Awaq ONGD biological station in Aguadas, Caldas, teaching players about the conservation work happening there. This was my **degree thesis — awarded a Laureate Thesis distinction**.
+An open-world game where you walk around Awaq ONGD's biological station in Aguadas, Caldas and learn what they're doing to protect the ecosystem there. It was my **degree thesis**, and it earned a **Laureate** distinction.
 
-I built the information displays, the task management system and the minimap, and served as **Scrum Master** for the team across ten months.
+I built the information displays, the task system and the minimap, and I was the team's **Scrum Master** for the ten months it took us.
 
 <a href="https://stiivenortiz.github.io/EcoGuardians-2.0/"><img src="https://img.shields.io/badge/▶_Play_EcoGuardians_2.0-2EA043?style=for-the-badge&logo=unity&logoColor=white" alt="play" /></a>
 
@@ -128,7 +128,7 @@ I built the information displays, the task management system and the minimap, an
 
 ## 🌱 Currently learning
 
-Where I am putting my study time right now:
+What I'm studying at the moment:
 
 ![AWS](https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
@@ -141,26 +141,7 @@ Where I am putting my study time right now:
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=StiivenOrtiz&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=2EA043&text_color=808080&icon_color=2EA043" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=StiivenOrtiz&layout=compact&langs_count=6&exclude_repo=EcoGuardians-2.0,testvideos&hide=html&hide_border=true&bg_color=00000000&title_color=2EA043&text_color=808080" alt="top languages" />
-
-<br/>
-
 <img src="https://streak-stats.demolab.com?user=StiivenOrtiz&hide_border=true&background=00000000&stroke=808080&ring=2EA043&fire=3FB950&currStreakLabel=2EA043&sideLabels=808080&currStreakNum=808080&sideNums=808080&dates=808080" alt="streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=StiivenOrtiz&bg_color=00000000&color=808080&line=2EA043&point=3FB950&area=true&area_color=2EA043&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph" width="100%" />
-
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=StiivenOrtiz&theme=matrix&no-frame=true&no-bg=true&margin-w=6&margin-h=6&column=7" alt="trophies" />
 
 </div>
 
@@ -172,7 +153,7 @@ Where I am putting my study time right now:
 
 <br/>
 
-**Thanks for stopping by — let's build something that does not break in production.**
+**Thanks for stopping by. If you're building something in payments, I'd like to hear about it.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3FB950,50:2EA043,100:0D1117&height=110&section=footer" width="100%" alt="footer" />
 
